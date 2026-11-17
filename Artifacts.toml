@@ -1,0 +1,435 @@
+[[GetDP]]
+arch = "aarch64"
+git-tree-sha1 = "615f8d80e9fefab1d060589effac3f8e1a620e71"
+libgfortran_version = "5.0.0"
+mpi = "mpiabi"
+os = "macos"
+
+    [[GetDP.download]]
+    sha256 = "5c84663a7b6164b9830ae6227af3296eec69b01a0aab29bfe1cda1a9d10f4503"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.aarch64-apple-darwin-libgfortran5-mpi+mpiabi.tar.gz"
+[[GetDP]]
+arch = "aarch64"
+git-tree-sha1 = "50dbeed2254b5bb6fe8a436151903874631fdfe8"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "macos"
+
+    [[GetDP.download]]
+    sha256 = "b61deaf31c2180079df33d63b95120f2c5890e49dd43a40cc519b85f79b21f74"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.aarch64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
+[[GetDP]]
+arch = "aarch64"
+git-tree-sha1 = "07fd75cbf4f9f8ba9b8e2988567691e63e92c141"
+libgfortran_version = "5.0.0"
+mpi = "mpitrampoline"
+os = "macos"
+
+    [[GetDP.download]]
+    sha256 = "97269d97fc03c9389c5140d31aa86113184e8e116af2d91400accde0be825d9d"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.aarch64-apple-darwin-libgfortran5-mpi+mpitrampoline.tar.gz"
+[[GetDP]]
+arch = "aarch64"
+git-tree-sha1 = "809fdff645e0493fc140b946353929275a151ca8"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "macos"
+
+    [[GetDP.download]]
+    sha256 = "f46f56029b6b90cb6631f7e2b338cb0ae10f94da15a341d68b7efe5ddb2045a6"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.aarch64-apple-darwin-libgfortran5-mpi+openmpi.tar.gz"
+[[GetDP]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ce6ef24ca622c40bd8353976c86746a533beee45"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpiabi"
+os = "linux"
+
+    [[GetDP.download]]
+    sha256 = "a725be126e6de5ea8b2e1a6572eb368fdf57026b6baf402174761d7159572bde"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.aarch64-linux-gnu-libgfortran5-cxx11-mpi+mpiabi.tar.gz"
+[[GetDP]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "92b925ffa9283fa03750005aa733eaacff10bb93"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[GetDP.download]]
+    sha256 = "38a2546535c31411678981864699d76d7c68adfb4cf50227e02723804a38c0b8"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.aarch64-linux-gnu-libgfortran5-cxx11-mpi+mpich.tar.gz"
+[[GetDP]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9bc63e1010bc397ccc6dfe533589d6d09bff579e"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[GetDP.download]]
+    sha256 = "64e4156529e3c962e796e8476968b990a58b86555914f5b414cdac50f80329b5"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.aarch64-linux-gnu-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
+[[GetDP]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4eeb5db3e9309351b45eccf2f62f831263cca5d2"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[GetDP.download]]
+    sha256 = "f515dad79cea69afb2b562288359f5cd2fd55887d8760a914786eb3d5e73a505"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.aarch64-linux-gnu-libgfortran5-cxx11-mpi+openmpi.tar.gz"
+[[GetDP]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0b50ea225aa9470006147734e6e791f07ded69b6"
+libc = "musl"
+libgfortran_version = "5.0.0"
+mpi = "mpiabi"
+os = "linux"
+
+    [[GetDP.download]]
+    sha256 = "b713d749facf687df11e5f7d24c89ae8db2b5e63417c4233113e8f90a0011da2"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.aarch64-linux-musl-libgfortran5-cxx11-mpi+mpiabi.tar.gz"
+[[GetDP]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a46cf597e620864200175b21f0cfc682876a8564"
+libc = "musl"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[GetDP.download]]
+    sha256 = "13ddbebdd3027e7b4b3a19be8a79b5b7bee83c53f4506fbcabe87ee8660f9742"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.aarch64-linux-musl-libgfortran5-cxx11-mpi+mpich.tar.gz"
+[[GetDP]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3176c4469c596e37b7044832f70f3a24fcc545c7"
+libc = "musl"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[GetDP.download]]
+    sha256 = "5b2d61328f5432fef5e0518f500d1b0728cb8f8c3921ebd040a4a6b8135b54c3"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.aarch64-linux-musl-libgfortran5-cxx11-mpi+openmpi.tar.gz"
+[[GetDP]]
+arch = "aarch64"
+git-tree-sha1 = "9246286bd2ff414f0d8eefcd61ee2eaf64288af9"
+libgfortran_version = "5.0.0"
+mpi = "mpiabi"
+os = "freebsd"
+
+    [[GetDP.download]]
+    sha256 = "952e2835826187de755becbddbff777a917c519f58fc5f57f149a59f2b549e57"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.aarch64-unknown-freebsd-libgfortran5-mpi+mpiabi.tar.gz"
+[[GetDP]]
+arch = "aarch64"
+git-tree-sha1 = "e452337a3e3835f9e42e2df8a91bb865d1306b5a"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "freebsd"
+
+    [[GetDP.download]]
+    sha256 = "56241516a8a84b886ed298ad2e21a43bc920c47ffcf87bb8a6f54949f71f7dc2"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.aarch64-unknown-freebsd-libgfortran5-mpi+mpich.tar.gz"
+[[GetDP]]
+arch = "aarch64"
+git-tree-sha1 = "5c0613363d4abc7e9a3fed7b5e8fabbf74eaf2e5"
+libgfortran_version = "5.0.0"
+mpi = "mpitrampoline"
+os = "freebsd"
+
+    [[GetDP.download]]
+    sha256 = "d2531619f5d8f3f2a81edee832e1e323e6f4eed9d13993233ea81a9974c60791"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.aarch64-unknown-freebsd-libgfortran5-mpi+mpitrampoline.tar.gz"
+[[GetDP]]
+arch = "aarch64"
+git-tree-sha1 = "9bf60868c469faa0f74f87282a589ebffad58ea3"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "freebsd"
+
+    [[GetDP.download]]
+    sha256 = "073a7af4aa88ae347ca5a31687abb832eba18951e1424ff79848ce02632d639d"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.aarch64-unknown-freebsd-libgfortran5-mpi+openmpi.tar.gz"
+[[GetDP]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "84c03d27c44b9d90d33e478cc6ef39a1888e382e"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpiabi"
+os = "linux"
+
+    [[GetDP.download]]
+    sha256 = "332832f18124217de2ceeb3c310b3c8f738b60698d314aeb96425dd3d5b9bd70"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.powerpc64le-linux-gnu-libgfortran5-cxx11-mpi+mpiabi.tar.gz"
+[[GetDP]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2c0eda68268fcb227fe96295feb5def09fd8bc0d"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[GetDP.download]]
+    sha256 = "f3cb69b38e74fe8054a673a3711572bb84538229b9a15556445583e4d5879b27"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.powerpc64le-linux-gnu-libgfortran5-cxx11-mpi+mpich.tar.gz"
+[[GetDP]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0d6743e07c2422f8ecc14810bc213701592289ec"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[GetDP.download]]
+    sha256 = "661ccddd791f95bbebc874b8d5a88d470b459cbb69590c58950f95d65e5a5a37"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.powerpc64le-linux-gnu-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
+[[GetDP]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8947ce13fab15f4cbc57852e357e4bc05f75f499"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[GetDP.download]]
+    sha256 = "0c502e54ce479970a31d6513f80c65f7fc06b87b10048b32a8345ee2ff8e83bb"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.powerpc64le-linux-gnu-libgfortran5-cxx11-mpi+openmpi.tar.gz"
+[[GetDP]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5395108732b7958fbfc46173cf9d46420c05b195"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpiabi"
+os = "linux"
+
+    [[GetDP.download]]
+    sha256 = "1f215d2a71c1ccc581976dd0f34d6d0da13a9a63333989905c1f90d7b8aaffb2"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.riscv64-linux-gnu-libgfortran5-cxx11-mpi+mpiabi.tar.gz"
+[[GetDP]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5da9598546df6b082b776d980a0b96d005fad10a"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[GetDP.download]]
+    sha256 = "b8deebca00cc94acc2d65858f42fdcf6b4df1a38d6b8eb6f749424f8c6053575"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.riscv64-linux-gnu-libgfortran5-cxx11-mpi+mpich.tar.gz"
+[[GetDP]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "73d5a15d25f6d5985560a8eab19d13e017ea530d"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[GetDP.download]]
+    sha256 = "d4b01655898b28160efd2792eea916ecc842dde4bc778e1196bb83c1d80d953b"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.riscv64-linux-gnu-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
+[[GetDP]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6673c09596c8a6e8d993a5548506a8a5871ba957"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[GetDP.download]]
+    sha256 = "996c1dac65eedf3bef2e3e134d8a6cf5dc0c891131482c06f1a49ef08003d613"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.riscv64-linux-gnu-libgfortran5-cxx11-mpi+openmpi.tar.gz"
+[[GetDP]]
+arch = "x86_64"
+git-tree-sha1 = "3fdd011a9d119f9462c811746cb9af38c166b8c3"
+libgfortran_version = "5.0.0"
+mpi = "mpiabi"
+os = "macos"
+
+    [[GetDP.download]]
+    sha256 = "9198898a29077ff02d33f81ba06c4ee4e1942c395a5cbe60aa577011f7cd59aa"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.x86_64-apple-darwin-libgfortran5-mpi+mpiabi.tar.gz"
+[[GetDP]]
+arch = "x86_64"
+git-tree-sha1 = "d94e2e0e0c18fc12ab693bd0ed79cfb1d57aaf94"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "macos"
+
+    [[GetDP.download]]
+    sha256 = "16f0c6da4cdf084161b1b1279139662c3206c5d9542aab8f41c291e81a30429a"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.x86_64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
+[[GetDP]]
+arch = "x86_64"
+git-tree-sha1 = "f0f00fa525ee1e019775bfbc82b9f86411b02cc4"
+libgfortran_version = "5.0.0"
+mpi = "mpitrampoline"
+os = "macos"
+
+    [[GetDP.download]]
+    sha256 = "a94d7b8070bb2cffec017cd361bfdc3f180ce459e8275faed7221cf97a7b291a"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.x86_64-apple-darwin-libgfortran5-mpi+mpitrampoline.tar.gz"
+[[GetDP]]
+arch = "x86_64"
+git-tree-sha1 = "85cb70170896416a0d29291032786d6123f63ee9"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "macos"
+
+    [[GetDP.download]]
+    sha256 = "122daca6444af1bbb5a1b1137e45b9273dd0891a36760fffa7ab8311042700c0"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.x86_64-apple-darwin-libgfortran5-mpi+openmpi.tar.gz"
+[[GetDP]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d9ed08c3cdf389060e08782d9dbb0d1ad593633b"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpiabi"
+os = "linux"
+
+    [[GetDP.download]]
+    sha256 = "ad695fa065a3849d7fa40b20c52af30193a57f1d96d53f59eea0af16d4553d82"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.x86_64-linux-gnu-libgfortran5-cxx11-mpi+mpiabi.tar.gz"
+[[GetDP]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4ff57fde072d52eb09168942cec2442814c3412d"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[GetDP.download]]
+    sha256 = "17b4ec624096c789e7f6b4546cbdb1da05123c5671f52a0f289feac8e3bac2ca"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.x86_64-linux-gnu-libgfortran5-cxx11-mpi+mpich.tar.gz"
+[[GetDP]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "129edf9ff146dff66b8554aabd03404f79f1b6c2"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[GetDP.download]]
+    sha256 = "6a6edcda0091c16e2c5afeb42b12505aa6c7606a03c4396be049719d2551d733"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.x86_64-linux-gnu-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
+[[GetDP]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "21b2d65513f1acb368b242682fcb9524ef1b3bf1"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[GetDP.download]]
+    sha256 = "c2e3984ce9b18283c9d3d972bcfe733bf9cf58e32dab05d6f0a3d5cae5f2eb2d"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.x86_64-linux-gnu-libgfortran5-cxx11-mpi+openmpi.tar.gz"
+[[GetDP]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8760a525f25d4f9ff97859b2bdc3e20dec56ebee"
+libc = "musl"
+libgfortran_version = "5.0.0"
+mpi = "mpiabi"
+os = "linux"
+
+    [[GetDP.download]]
+    sha256 = "83b7cb1a9883cfefb48c30e079be2cfde12fb733dc93063d2a543a66964662c4"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.x86_64-linux-musl-libgfortran5-cxx11-mpi+mpiabi.tar.gz"
+[[GetDP]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4388c25b5ed7d3d43d0838c967e00628c6950675"
+libc = "musl"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[GetDP.download]]
+    sha256 = "a559f2689dca1501d986a8f9354d2eaa0b09cab2d339bc641f74c1e9cfe10341"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.x86_64-linux-musl-libgfortran5-cxx11-mpi+mpich.tar.gz"
+[[GetDP]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "44fa196beadd7d3a3716f89d231283b2e49112a7"
+libc = "musl"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[GetDP.download]]
+    sha256 = "5c8fb213088a86a9be8a6304846c6097c0664aaf218297d06c720b12de9e1299"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.x86_64-linux-musl-libgfortran5-cxx11-mpi+openmpi.tar.gz"
+[[GetDP]]
+arch = "x86_64"
+git-tree-sha1 = "eb2cb573730bb58a34c3a297311e89c2c2fae86b"
+libgfortran_version = "5.0.0"
+mpi = "mpiabi"
+os = "freebsd"
+
+    [[GetDP.download]]
+    sha256 = "3f020f904c0b0695df48f4490c18ffd1982f64b14ee5fb5b609d9626f2fe217b"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.x86_64-unknown-freebsd-libgfortran5-mpi+mpiabi.tar.gz"
+[[GetDP]]
+arch = "x86_64"
+git-tree-sha1 = "0c527e3a3408ebcfce58268064de5f1a1c5cf4f5"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "freebsd"
+
+    [[GetDP.download]]
+    sha256 = "d5d1969dc00612494e67c1ddc99974a15e6e6c35936a2b6c9771eb80dfb49ed5"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.x86_64-unknown-freebsd-libgfortran5-mpi+mpich.tar.gz"
+[[GetDP]]
+arch = "x86_64"
+git-tree-sha1 = "d0762a7c2eef1366687b204a1ce17802ce3fdb2f"
+libgfortran_version = "5.0.0"
+mpi = "mpitrampoline"
+os = "freebsd"
+
+    [[GetDP.download]]
+    sha256 = "3f8c1d9d505f04e69278836106a806eb8ae096250b187f3352b9092ba6b491b8"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.x86_64-unknown-freebsd-libgfortran5-mpi+mpitrampoline.tar.gz"
+[[GetDP]]
+arch = "x86_64"
+git-tree-sha1 = "b0afaa25fe4ca5c1bdff7155bc2097849bd88a94"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "freebsd"
+
+    [[GetDP.download]]
+    sha256 = "937ae8cbd91171d320024a0624310528fc44224aa118ed17255d663d92e11c21"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.x86_64-unknown-freebsd-libgfortran5-mpi+openmpi.tar.gz"
+[[GetDP]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ba75f33011fba50b8a0f6fdbab18a044e8518d85"
+libgfortran_version = "5.0.0"
+mpi = "microsoftmpi"
+os = "windows"
+
+    [[GetDP.download]]
+    sha256 = "f8b94bac7890f7f051c3928eaeb6f12dc063deb5577f76d7217a21c16f3ded44"
+    url = "https://github.com/JuliaBinaryWrappers/GetDP_jll.jl/releases/download/GetDP-v3.5.1+0/GetDP.v3.5.1.x86_64-w64-mingw32-libgfortran5-cxx11-mpi+microsoftmpi.tar.gz"
